@@ -1,4 +1,3 @@
-import { handleActions } from "redux-actions";
 
 import { INCREMENT_COUNT, ASYNC_ACTION } from "../actions/incrementCountAction";
 
